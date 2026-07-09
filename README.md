@@ -17,7 +17,7 @@ Replicate this repository to your local workstation utilizing the Git Command Li
 
 ```bash
 git clone [https://github.com/](https://github.com/)[organisation]/[repository-name].git
-
+```
 Option 2: Direct Download
 Alternatively, you may download the comprehensive asset bundle directly via your browser:
 
