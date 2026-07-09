@@ -10,19 +10,27 @@ The primary objective of this repository is to provision workshop attendees with
 
 ## 🚀 Getting Started
 
-To utilize these assets during the session, you can acquire them using either of the methods outlined below:
+To utilize these assets during the session, you can acquire the compressed archive directly using either of the methods outlined below:
 
-### Option 1: Clone the Repository (Recommended)
-Replicate this repository to your local workstation utilizing the Git Command Line Interface:
+### Option 1: Direct Browser Download (Recommended)
+You can access and download the workshop bundle directly via the official source link:
+
+👉 **[Download Workshop Dummy Objects Zip](https://github.com/CraveGit/Crave-CoreAssesAI-Workshop-Dummy-Objects/blob/main/Crave_CoreAssesAI_Workshop_Dummy_Objects.zip)**
+
+### Option 2: Command Line Retrieval
+Alternatively, you may pull the asset bundle directly to your local workspace via the terminal using `wget` or `curl`:
 
 ```bash
-git clone [https://github.com/](https://github.com/)[organisation]/[repository-name].git
-```
-Option 2: Direct Download
-Alternatively, you may download the comprehensive asset bundle directly via your browser:
+# Utilizing curl
+curl -L -O [https://github.com/CraveGit/Crave-CoreAssesAI-Workshop-Dummy-Objects/raw/main/Crave_CoreAssesAI_Workshop_Dummy_Objects.zip](https://github.com/CraveGit/Crave-CoreAssesAI-Workshop-Dummy-Objects/raw/main/Crave_CoreAssesAI_Workshop_Dummy_Objects.zip)
 
-Navigate to the top of this repository page.
+# Utilizing wget
+wget [https://github.com/CraveGit/Crave-CoreAssesAI-Workshop-Dummy-Objects/raw/main/Crave_CoreAssesAI_Workshop_Dummy_Objects.zip](https://github.com/CraveGit/Crave-CoreAssesAI-Workshop-Dummy-Objects/raw/main/Crave_CoreAssesAI_Workshop_Dummy_Objects.zip)
 
-Select the green Code button.
+🛠️ Usage Guideline
+Workshop Context: These objects are strictly architectural simulators intended for educational and instructional utility.
 
-Click Download ZIP from the drop-down menu and extract the contents locally.
+Integrity: Please avoid modifying the root structure of these files unless explicitly instructed by the workshop moderator during live exercises.
+
+⚖️ Intellectual Property Notice
+This software and associated documentation files are the intellectual property of Crave InfoTech. These assets are made publicly available exclusively for ephemeral instructional use during scheduled corporate workshops.
