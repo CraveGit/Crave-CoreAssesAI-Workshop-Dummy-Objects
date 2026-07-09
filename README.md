@@ -26,6 +26,7 @@ curl -L -O [https://github.com/CraveGit/Crave-CoreAssesAI-Workshop-Dummy-Objects
 
 # Utilizing wget
 wget [https://github.com/CraveGit/Crave-CoreAssesAI-Workshop-Dummy-Objects/raw/main/Crave_CoreAssesAI_Workshop_Dummy_Objects.zip](https://github.com/CraveGit/Crave-CoreAssesAI-Workshop-Dummy-Objects/raw/main/Crave_CoreAssesAI_Workshop_Dummy_Objects.zip)
+```
 
 🛠️ Usage Guideline
 Workshop Context: These objects are strictly architectural simulators intended for educational and instructional utility.
